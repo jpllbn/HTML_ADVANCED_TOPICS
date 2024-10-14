@@ -7,7 +7,7 @@
     - Using labels, placeholders, and form validation (e.g., required, pattern).
     - Submitting forms via GET or POST methods and handling form data.
 
-**Exercises:**
+    **Exercises:**
 
-- Create a registration form for a website with fields like name, email, and password.
-- Include client-side validation to ensure fields are properly filled out.
+   - Create a registration form for a website with fields like name, email, and password.
+   - Include client-side validation to ensure fields are properly filled out.

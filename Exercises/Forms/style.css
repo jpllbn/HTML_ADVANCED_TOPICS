@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {  
+}
+
+label {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input {
+    margin-bottom: 5px;
+}
+.registration {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    background-color: chocolate;
+    border-radius: 5px;
+}
+
+.submit {
+    padding: 10px;
+}
